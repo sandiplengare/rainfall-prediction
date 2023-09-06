@@ -1,0 +1,41 @@
+- DATA UNDERSTANDING
+ -Info,
+ -Shape
+ -Type Of Data
+
+- DATA PREPROCESSING
+  - Converting Non-standard format data to correct format data
+
+- E.D.A
+-- Visualising data using Plotly
+  ---univariate analysis
+  --- Bivariate analysis
+  --- Multi-variate Analysis
+
+- FEATURE ENGINEERING
+  --- Creating Dummy Variables (Categorical to Numerical)
+  --- Scaling 
+     ----Normalizing
+     ----Standardizing
+
+- TRAIN-TEST SPLIT
+ -- Feature Selection 
+     ---- By checking R-Squared and Adjusted R-Squared
+     ---- By checking significance (Hypothesis Testing p-values)
+     ---- By Multi-Colinearity -> Variance Inflation Factor(vif)
+ -- Training the data on Final Selected Features
+ -- Predicting on the data
+
+ -- MODEL EVALUATION (Both for Train and Test Set)
+   --- R2 Score
+   --- Residual Analysis
+   --- Test For homoscedasticity
+
+--TOOLS AND LIBRARIES USED:
+    -- Jupyter Notebook
+    -- Numpy
+    -- Pandas
+    -- Seaborn
+    -- Matplotlib
+    -- Plotly
+    -- Seaborn
